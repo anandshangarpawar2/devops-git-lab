@@ -1,7 +1,5 @@
 server:
   host: localhost
-<<<<<<< HEAD
-  port: 8081
-=======
-  port: 8082
->>>>>>> feature-b
+  ports:
+    - 8081
+    - 8082
